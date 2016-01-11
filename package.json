@@ -1,0 +1,19 @@
+{
+  "name": "taskmill-code-dummy",
+  "version": "1.0.0",
+  "description": "dummy code runner",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a7medkamel/taskmill-code-dummy.git"
+  },
+  "author": "a7medkamel <ak@ahmedkamel.net>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/a7medkamel/taskmill-code-dummy/issues"
+  },
+  "homepage": "https://github.com/a7medkamel/taskmill-code-dummy#readme"
+}
